@@ -1,1 +1,2 @@
 # NodeJSRESTAPIin10Min
+HTTP POST AND GET request
